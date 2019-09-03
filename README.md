@@ -1,1 +1,1 @@
-# MiniProject-in-C--E-store
+# MiniProject in C-E Store
