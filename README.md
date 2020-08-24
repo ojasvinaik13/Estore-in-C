@@ -1,1 +1,1 @@
-# MiniProject in C-E Store
+# E Store in C language
